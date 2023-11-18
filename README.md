@@ -4,8 +4,8 @@
 Я обоучаюсь на фронтенд разработчика в Хекслет колледж (Санкт-Петербург). Здесь я изучаю работу таких технологий как: ReactJS, NodeJS, HTML5, CSS3, Git, Sass/Scss, Webpack. На данный момент являюсь студентом 3 курса и предлагаю взглянуть на мои проекты в закрепленных репозиториях ⚡.
 
 - закончил изучать ванильный js на платформе Хекслет
-- мой профиль на площадке: ![профиль Хекслет](https://ru.hexlet.io/u/user-7373843896b69e80)
-- как связаться со мной: ![https://camo.githubusercontent.com/50b444e660fc6ddaf5c93ae8e34576d94efbd8e7d1cb631c478df3a386c0772c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d67656f5f7269642d5377616d703f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465](https://t.me/kozlovjr)
+- мой профиль на площадке: [профиль Хекслет](https://ru.hexlet.io/u/user-7373843896b69e80)
+- как связаться со мной: 
 <!--
 **nikitakozlovjr/nikitakozlovjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
