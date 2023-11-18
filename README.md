@@ -5,7 +5,7 @@
 
 - :white_check_mark: закончил изучать ванильный js
 - :white_check_mark: мой профиль на площадке: [профиль Хекслет](https://ru.hexlet.io/u/user-7373843896b69e80)
-- :white_check_mark: как связаться со мной: [![telegram](https://raw.githubusercontent.com/Patrolavia/telegram-badge/8fe3382b3fd3a1c533ba270e608035a27e430c2e/chat.svg)](https://t.me/kozlovjr) [![gmail](https://camo.githubusercontent.com/b85b496514681cc3859dde3eecc40357ab690e1f01ed2990503537188d171f47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61696c2d626c75653f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465)](kozlov.nikita27.02.2002@gmail.com)[![vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kozlovjr02)
+- :white_check_mark: как связаться со мной: [![telegram](https://raw.githubusercontent.com/Patrolavia/telegram-badge/8fe3382b3fd3a1c533ba270e608035a27e430c2e/chat.svg)](https://t.me/kozlovjr) [![gmail](https://camo.githubusercontent.com/b85b496514681cc3859dde3eecc40357ab690e1f01ed2990503537188d171f47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61696c2d626c75653f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465)](kozlov.nikita27.02.2002@gmail.com)   [![vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kozlovjr02)
 ___
 
 ### Мой стек технологий
